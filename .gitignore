@@ -1,0 +1,7 @@
+*.exe
+*.obj
+*.bin
+*.ilk
+*.pdb
+# vtune runs
+Llama2.c
